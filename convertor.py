@@ -2,6 +2,10 @@ import pandas as pd
 import os
 from datetime import datetime
 
+# Used to convert a CSV file to MBOX format
+# Made by Dr. Gibran Ali for MBTT use.
+# Feel free to modify and use as needed.
+
 def convert_to_mbox(df, output_file_path):
     with open(output_file_path, 'w') as file:
         for _, row in df.iterrows():
