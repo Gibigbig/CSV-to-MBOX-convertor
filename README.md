@@ -1,6 +1,7 @@
 # To by used by MBTT
 
 # How to use
+- install pandas ` pip install pandas --break-system-packages`  note you may need to add --break-system-packages to bypass version control
 - copy input file to the same folder as the python file
 - Run the python file
 - enter input CSV filename
