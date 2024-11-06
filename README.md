@@ -6,4 +6,4 @@
 - enter input CSV filename
 - enter outputfile name ending in .mbox
 
-![image](https://github.com/user-attachments/assets/dfc60197-1065-4cba-96f6-18065efc7626)
+![image](https://github.com/user-attachments/assets/2be9b809-8eb4-4a63-97e6-ee2a1b8410bb)
